@@ -1,0 +1,28 @@
+# Tutorial de Git
+# Archivos a ignorar por Git
+
+# Programas compilados
+*.class
+*.jar
+target/
+bin/
+
+# Archivos de configuración de Eclipse
+.project
+.classpath
+.metadata
+.settings/
+.recommenders/
+.apt_generated/
+
+# Archivos de configuración de IntelliJ
+.idea/
+.idea_modules/
+out/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~.nib
+tmp/
